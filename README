@@ -1,0 +1,5 @@
+GloboMantics.UI
+
+Progetto didattico, usato per seguire il corso Pluralsight "Advanced Reusable Styles and Themes in WPF" di Keith Harvey.
+
+Questo progetto è un porting verso .NET 6.0, mentre il progetto originale del corso era per .NET 4.7.2

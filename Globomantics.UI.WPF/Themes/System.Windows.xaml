@@ -2,5 +2,13 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="Styles/ButtonStyles.xaml" />
+        <ResourceDictionary Source="Styles/CheckBoxStyles.xaml"/>
+        <ResourceDictionary Source="Styles/ComboBox.xaml"/>
+        <ResourceDictionary Source="Styles/GroupBox.xaml"/>
+        <ResourceDictionary Source="Styles/TextBoxStyles.xaml"/>
+        <ResourceDictionary Source="Styles/DatePickerStyles.xaml"/>
+        <ResourceDictionary Source="Styles/WindowsStyles.xaml"/>
     </ResourceDictionary.MergedDictionaries>
+
+
 </ResourceDictionary>
